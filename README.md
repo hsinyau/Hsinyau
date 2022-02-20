@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @imxxxx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=imxxxx&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx">
+</p>
 
 ### 🛠 Tech Stack
 
@@ -21,8 +22,7 @@
 
 ### 📏 Dev Tool
 
+<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /> -->
 ![](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![](https://img.shields.io/badge/IDE-WebStorm-orange?style=flat-square&logo=webstorm&logoColor=white)
 ![](https://img.shields.io/badge/API-Postman-blue?style=flat-square&logo=postman&logoColor=orange)
-
-<!-- ![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif) -->
