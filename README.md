@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<span style="float: left;">
 [![usocute's GitHub stats](https://github-readme-stats.vercel.app/api?username=imxxxx)](https://github.com/anuraghazra/github-readme-stats)
-</span>
 
 <span style="float: right;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx)](https://github.com/anuraghazra/github-readme-stats)
