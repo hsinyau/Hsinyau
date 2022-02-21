@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=imxxxx&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx">
-</p>
+<table>
+  <tr>
+    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=imxxxx&show_icons=true&include_all_commits=true">
+</td>
+    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx"></td>
+  </tr>
+</table>
 
 ### 🛠 Tech Stack
 
