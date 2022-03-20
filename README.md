@@ -4,7 +4,7 @@
   <tr>
     <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=imxxxx&show_icons=true&include_all_commits=true">
 </td>
-    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx"></td>
+    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx&layout=compact"></td>
   </tr>
 </table>
 
