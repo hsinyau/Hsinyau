@@ -2,6 +2,16 @@
 
 <table>
 <!--START_SECTION:waka-->
+
+```text
+Markdown     1 hr 56 mins    ████████████████▓░░░░░░░░   67.21 %
+Vue.js       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+TypeScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+```
+
 <!--END_SECTION:waka-->
 </table>
 
