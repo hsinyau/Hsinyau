@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 <table>
-  <tr>
-    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=imxxxx&show_icons=true&include_all_commits=true">
-</td>
-    <td><img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxxxx&layout=compact"></td>
-  </tr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </table>
 
 ### 🛠 Tech Stack
