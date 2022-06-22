@@ -1,6 +1,13 @@
 ![Header](./img/header.png)
 
 <table>
+<tr style="width: 100%">
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H52e5&layout=compact"></td> 
+  <td><img src="https://github-readme-stats.vercel.app/api?username=H52e5&show_icons=true"/></td> 
+ </tr>
+</table>
+
+<table>
 <!--START_SECTION:waka-->
 
 ```text
