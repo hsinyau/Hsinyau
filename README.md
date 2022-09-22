@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Batchfile   9 mins          █████████████████████████   99.55 %
+Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
