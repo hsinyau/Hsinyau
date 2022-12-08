@@ -18,9 +18,6 @@ XML          7 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </table>
 
-### My Github Contribution
-![](https://cdn.jsdelivr.net/gh/h52e5/h52e5@main/img/github-contribution-grid-snake.svg)
-
 ### 🛠 Tech Stack
 
 ![](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
