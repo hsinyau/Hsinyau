@@ -1,11 +1,7 @@
 ## Hey 👋, I'm Hsinyau.
 
-<table>
-<tr style="width: 100%">
-  <td style="width: 40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinyau&layout=compact"></td> 
-  <td style="width: 60%"><img src="https://github-readme-stats.vercel.app/api?username=Hsinyau&show_icons=true"/></td> 
- </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinyau&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Hsinyau&show_icons=true"/>
 
 <table>
 <!--START_SECTION:waka-->
