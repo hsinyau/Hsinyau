@@ -2,8 +2,8 @@
 
 <table>
 <tr style="width: 100%">
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinyau&layout=compact"></td> 
-  <td><img src="https://github-readme-stats.vercel.app/api?username=Hsinyau&show_icons=true"/></td> 
+  <td style="width: 40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinyau&layout=compact"></td> 
+  <td style="width: 60%"><img src="https://github-readme-stats.vercel.app/api?username=Hsinyau&show_icons=true"/></td> 
  </tr>
 </table>
 
