@@ -1,5 +1,5 @@
 ### Hi there, I am Hsin Yau 👋 
-
+[![wakatime](https://wakatime.com/badge/user/893c8e97-1b52-4df0-9ce6-6d44e435d752.svg)](https://wakatime.com/@893c8e97-1b52-4df0-9ce6-6d44e435d752)
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Hsinyau&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
 #### 🎯 Information about me
