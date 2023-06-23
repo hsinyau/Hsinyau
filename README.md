@@ -20,4 +20,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hsinyau&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10" />
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.46 %
+Java         34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+JavaScript   32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Other        22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+CSS          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+```
+
 <!--END_SECTION:waka-->
