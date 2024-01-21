@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 16 * * *'
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 permissions:
   contents: write # To write the generated contents to the readme
