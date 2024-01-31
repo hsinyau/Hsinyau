@@ -5,10 +5,6 @@
   </div>
 </div>
 
-<table>
-<tr>
-<td>
-
 ### 📃 Recent Blog
         
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
@@ -23,11 +19,6 @@
       
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-
-</td>
-</tr>
-<tr>
-<td>
       
 ### 🤾‍♂️ Funny Soul
       
@@ -43,10 +34,6 @@
       
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-      
-</td>
-</tr>
-</table>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
