@@ -25,11 +25,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
       
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/6437880/' target='_blank'>读过哑舍</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
-* <a href='https://book.douban.com/subject/30205673/' target='_blank'>读过她的小梨窝</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
-* <a href='https://book.douban.com/subject/30262797/' target='_blank'>读过情书六十页</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
-* <a href='https://book.douban.com/subject/1082154/' target='_blank'>想读活着</a> - 2020-08-23
-* <a href='https://book.douban.com/subject/30208357/' target='_blank'>读过为你点亮每一颗星</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
+* <a href='http://movie.douban.com/subject/26385614/' target='_blank'>在看路西法 第一季</a> 🌟🌟🌟🌟🌟 力荐- 2021-01-31
+* <a href='http://movie.douban.com/subject/27619748/' target='_blank'>想看唐人街探案3</a> - 2021-01-31
+* <a href='http://movie.douban.com/subject/30170448/' target='_blank'>想看何以为家</a> - 2020-08-24
+* <a href='http://movie.douban.com/subject/26963810/' target='_blank'>看过月色真美</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
+* <a href='http://movie.douban.com/subject/25796222/' target='_blank'>看过玉子爱情故事</a> 🌟🌟🌟🌟🌟 力荐- 2020-08-23
 <!-- END_SECTION:douban -->
       
 <!-- for beauty 留个空行好看点 -->
