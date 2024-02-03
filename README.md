@@ -10,7 +10,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
       
 <!-- START_SECTION:blog -->
-
+* <a href='https://hsinyau.cc/posts/2023-year-end-summary' target='_blank'>2023·跃动的瞬间与恒久的印记</a> - Sun, 31 Dec 2023 12:47:12 GM
+* <a href='https://hsinyau.cc/posts/uri-and-url' target='_blank'>URI、URL傻傻分不清楚</a> - Wed, 11 Oct 2023 18:22:14 GM
+* <a href='https://hsinyau.cc/posts/reality-and-dreams-intertwine' target='_blank'>当现实与梦境交织：选择、挑战与成长</a> - 
+* <a href='https://hsinyau.cc/posts/explore-yolov5' target='_blank'>初探YOLOv5：目标检测算法概述</a> - Sat, 17 Jun 2023 07:59:45 GM
+* <a href='https://hsinyau.cc/posts/java-hashmap-uses' target='_blank'>[Java] 如何使用 HashMap</a> - 
 <!-- END_SECTION:blog -->
       
 <!-- for beauty 留个空行好看点 -->
