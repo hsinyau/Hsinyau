@@ -14,7 +14,7 @@
 * <a href='https://hsinyau.cc/posts/uri-and-url' target='_blank'>URI、URL傻傻分不清楚</a> - Wed, 11 Oct 2023 18:22:14 GM
 * <a href='https://hsinyau.cc/posts/reality-and-dreams-intertwine' target='_blank'>当现实与梦境交织：选择、挑战与成长</a> - 
 * <a href='https://hsinyau.cc/posts/explore-yolov5' target='_blank'>初探YOLOv5：目标检测算法概述</a> - Sat, 17 Jun 2023 07:59:45 GM
-* <a href='https://hsinyau.cc/posts/java-hashmap-uses' target='_blank'>[Java] 如何使用 HashMap</a> - 
+* <a href='https://hsinyau.cc/posts/my-first-eslint-rule' target='_blank'>构建我的第一个自定义 ESLint 规则</a> - Mon, 19 Dec 2022 09:59:45 GM
 <!-- END_SECTION:blog -->
       
 <!-- for beauty 留个空行好看点 -->
