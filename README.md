@@ -59,6 +59,8 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
   </a>
 </p>
 
+**Last updated blog**
+
 <!-- BLOG-POST-LIST:START -->
 - 🗽 [你一句春不晚，我便到了真江南](https://hsinyau.cc/spring-is-not-late) 
 
