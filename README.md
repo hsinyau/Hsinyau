@@ -64,13 +64,13 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
 <!-- BLOG-POST-LIST:START -->
 - 🗽 [你一句春不晚，我便到了真江南](https://hsinyau.cc//posts/spring-is-not-late) 
 
-- 👍 [2023·跃动的瞬间与恒久的印记](https://hsinyau.cc//posts/2023-year-end-summary) 
+- 👍 [使用 pnpm 构建 Monorepo 项目](https://hsinyau.cc//posts/pnpm-monorepo) 
 
-- 💪 [URI、URL傻傻分不清楚](https://hsinyau.cc//posts/uri-and-url) 
+- 💪 [Linux 中的 Tar 打包](https://hsinyau.cc//posts/linux-tape-archive) 
 
-- 🌈 [当现实与梦境交织：选择、挑战与成长](https://hsinyau.cc//posts/reality-and-dreams-intertwine) 
+- 🌈 [2023·跃动的瞬间与恒久的印记](https://hsinyau.cc//posts/2023-year-end-summary) 
 
-- 🐻 [初探YOLOv5：目标检测算法概述](https://hsinyau.cc//posts/explore-yolov5) 
+- 🐻 [URI、URL傻傻分不清楚](https://hsinyau.cc//posts/uri-and-url) 
 
-- 🦄 [构建我的第一个自定义 ESLint 规则](https://hsinyau.cc//posts/my-first-eslint-rule) 
+- 🦄 [JS 异步编程：事件循环与 Promise 机制](https://hsinyau.cc//posts/event-loop-and-promise) 
 <!-- BLOG-POST-LIST:END -->
