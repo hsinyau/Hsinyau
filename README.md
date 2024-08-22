@@ -51,7 +51,7 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
   <a href="https://github.com/hsinyau" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/_iiiiiyau" target="_blank">
+  <a href="https://www.instagram.com/hsinyau_zz" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/instagram-fb00bb.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
   <a href="https://hsinyau.cc" target="_blank">
