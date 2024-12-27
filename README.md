@@ -62,15 +62,15 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
 **Last updated blog**
 
 <!-- BLOG-POST-LIST:START -->
-- 🧰 [时光荏苒，十年光阴弹指间](https://hsinyau.com//posts/time-flies-ten-years) 
+- 🧰 [2024 · 素锦流年，绮梦新添](https://hsinyau.com/posts/2024-year-end-summary) 
 
-- 💼 [View Transitions API 初体验](https://hsinyau.com//posts/view-transitions-api) 
+- 💼 [我又又又重写个人网站了](https://hsinyau.com/posts/rewrite-personal-website) 
 
-- 🎓 [你一句春不晚，我便到了真江南](https://hsinyau.com//posts/spring-is-not-late) 
+- 🎓 [时光荏苒，十年光阴弹指间](https://hsinyau.com/posts/time-flies-ten-years) 
 
-- 🎉 [使用 pnpm 构建 Monorepo 项目](https://hsinyau.com//posts/pnpm-monorepo) 
+- 🎉 [View Transitions API 初体验](https://hsinyau.com/posts/view-transitions-api) 
 
-- 🦣 [Linux 中的 Tar 打包](https://hsinyau.com//posts/linux-tape-archive) 
+- 🦣 [你一句春不晚，我便到了真江南](https://hsinyau.com/posts/spring-is-not-late) 
 
-- 🥰 [2023·跃动的瞬间与恒久的印记](https://hsinyau.com//posts/2023-year-end-summary) 
+- 🥰 [使用 pnpm 构建 Monorepo 项目](https://hsinyau.com/posts/pnpm-monorepo) 
 <!-- BLOG-POST-LIST:END -->
