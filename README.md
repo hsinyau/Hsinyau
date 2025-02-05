@@ -62,15 +62,15 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
 **Last updated blog**
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [周报 #1 - 回顾、探索与生活随感](https://hsinyau.com/weekly/weekly-review-1) 
+- 🚀 [周报 #2 - 年味、乡愁与留守的童年](https://hsinyau.com/weekly/weekly-review-2) 
 
-- 🌊 [2024 · 素锦流年，绮梦新添](https://hsinyau.com/posts/2024-year-end-summary) 
+- 🌊 [周报 #1 - 回顾、探索与生活随感](https://hsinyau.com/weekly/weekly-review-1) 
 
-- 👺 [我又又又重写个人网站了](https://hsinyau.com/posts/rewrite-personal-website) 
+- 👺 [2024 · 素锦流年，绮梦新添](https://hsinyau.com/posts/2024-year-end-summary) 
 
-- 🪜 [时光荏苒，十年光阴弹指间](https://hsinyau.com/posts/time-flies-ten-years) 
+- 🪜 [我又又又重写个人网站了](https://hsinyau.com/posts/rewrite-personal-website) 
 
-- 🤖 [View Transitions API 初体验](https://hsinyau.com/posts/view-transitions-api) 
+- 🤖 [时光荏苒，十年光阴弹指间](https://hsinyau.com/posts/time-flies-ten-years) 
 
-- 🤠 [你一句春不晚，我便到了真江南](https://hsinyau.com/posts/spring-is-not-late) 
+- 🤠 [View Transitions API 初体验](https://hsinyau.com/posts/view-transitions-api) 
 <!-- BLOG-POST-LIST:END -->
